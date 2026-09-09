@@ -1,0 +1,29 @@
+C:\Users\topaz sajad\Downloads\WinFormsMvcCrud\StudentMvcCrud\bin\Debug\net8.0-windows\StudentMvcCrud.exe
+C:\Users\topaz sajad\Downloads\WinFormsMvcCrud\StudentMvcCrud\bin\Debug\net8.0-windows\StudentMvcCrud.deps.json
+C:\Users\topaz sajad\Downloads\WinFormsMvcCrud\StudentMvcCrud\bin\Debug\net8.0-windows\StudentMvcCrud.runtimeconfig.json
+C:\Users\topaz sajad\Downloads\WinFormsMvcCrud\StudentMvcCrud\bin\Debug\net8.0-windows\StudentMvcCrud.dll
+C:\Users\topaz sajad\Downloads\WinFormsMvcCrud\StudentMvcCrud\bin\Debug\net8.0-windows\StudentMvcCrud.pdb
+C:\Users\topaz sajad\Downloads\WinFormsMvcCrud\StudentMvcCrud\obj\Debug\net8.0-windows\StudentMvcCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\topaz sajad\Downloads\WinFormsMvcCrud\StudentMvcCrud\obj\Debug\net8.0-windows\StudentMvcCrud.AssemblyInfoInputs.cache
+C:\Users\topaz sajad\Downloads\WinFormsMvcCrud\StudentMvcCrud\obj\Debug\net8.0-windows\StudentMvcCrud.AssemblyInfo.cs
+C:\Users\topaz sajad\Downloads\WinFormsMvcCrud\StudentMvcCrud\obj\Debug\net8.0-windows\StudentMvcCrud.csproj.CoreCompileInputs.cache
+C:\Users\topaz sajad\Downloads\WinFormsMvcCrud\StudentMvcCrud\obj\Debug\net8.0-windows\StudentMvcCrud.dll
+C:\Users\topaz sajad\Downloads\WinFormsMvcCrud\StudentMvcCrud\obj\Debug\net8.0-windows\refint\StudentMvcCrud.dll
+C:\Users\topaz sajad\Downloads\WinFormsMvcCrud\StudentMvcCrud\obj\Debug\net8.0-windows\StudentMvcCrud.pdb
+C:\Users\topaz sajad\Downloads\WinFormsMvcCrud\StudentMvcCrud\obj\Debug\net8.0-windows\StudentMvcCrud.genruntimeconfig.cache
+C:\Users\topaz sajad\Downloads\WinFormsMvcCrud\StudentMvcCrud\obj\Debug\net8.0-windows\ref\StudentMvcCrud.dll
+C:\Users\LENOVO\source\repos\StudentMvcCrud\bin\Debug\net8.0-windows\StudentMvcCrud.exe
+C:\Users\LENOVO\source\repos\StudentMvcCrud\bin\Debug\net8.0-windows\StudentMvcCrud.deps.json
+C:\Users\LENOVO\source\repos\StudentMvcCrud\bin\Debug\net8.0-windows\StudentMvcCrud.runtimeconfig.json
+C:\Users\LENOVO\source\repos\StudentMvcCrud\bin\Debug\net8.0-windows\StudentMvcCrud.dll
+C:\Users\LENOVO\source\repos\StudentMvcCrud\bin\Debug\net8.0-windows\StudentMvcCrud.pdb
+C:\Users\LENOVO\source\repos\StudentMvcCrud\obj\Debug\net8.0-windows\StudentMvcCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\StudentMvcCrud\obj\Debug\net8.0-windows\StudentMvcCrud.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\StudentMvcCrud\obj\Debug\net8.0-windows\StudentMvcCrud.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\StudentMvcCrud\obj\Debug\net8.0-windows\StudentMvcCrud.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\StudentMvcCrud\obj\Debug\net8.0-windows\StudentMvcCrud.sourcelink.json
+C:\Users\LENOVO\source\repos\StudentMvcCrud\obj\Debug\net8.0-windows\StudentMvcCrud.dll
+C:\Users\LENOVO\source\repos\StudentMvcCrud\obj\Debug\net8.0-windows\refint\StudentMvcCrud.dll
+C:\Users\LENOVO\source\repos\StudentMvcCrud\obj\Debug\net8.0-windows\StudentMvcCrud.pdb
+C:\Users\LENOVO\source\repos\StudentMvcCrud\obj\Debug\net8.0-windows\StudentMvcCrud.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\StudentMvcCrud\obj\Debug\net8.0-windows\ref\StudentMvcCrud.dll
